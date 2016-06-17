@@ -1,0 +1,22 @@
+11223344556 Gilvan Almeida
+22334455667 Vinicius Medina
+33445566778 Kellen Coelho
+44556677889 Patric Freitas
+55667788991 Rodrigo Gomes
+66778899101 Steve Rogers
+77889910101 Peter Parker
+88991010111 Matt Murdock
+99101011111 Brunce Wayne
+11332255446 Wade Wilson
+22443366557 Sam Wilson
+19181716151 Bucky Barnes
+20191817161 Barry Allen
+30292827262 Felicity Smoak
+29282726252 Oliver Queen
+99887766554 Natasha Romanoff
+88776655443 James Rhodes
+77665544332 Tony Stark
+66554433221 Clint Barton
+00339988446 David Banner
+59585452565 Nick Fury
+
